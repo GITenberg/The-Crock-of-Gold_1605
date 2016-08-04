@@ -1,0 +1,32 @@
+_repo: The-Crock-of-Gold_1605
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stephens, James
+    alias: Esse, James
+    birthdate: 1882
+    deathdate: 1950
+    gutenberg_agent_id: '670'
+    url: http://www.gutenberg.org/2009/agents/670
+    wikipedia: http://en.wikipedia.org/wiki/James_Stephens
+description: ''
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '1999-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1605'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pan (Greek deity) -- Fiction'
+- !lcsh 'Ireland -- Fiction'
+- !lcsh 'Fairies -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The coming of Pan -- The philosopher's journey -- The two gods --
+  The philosopher's return -- The policemen -- The thin woman's journey and the Happy
+  march
+title: The Crock of Gold
+url: http://www.gutenberg.org/ebooks/1605
